@@ -1,0 +1,11 @@
+Algoritmo "ate"
+
+Var
+   S:INTEIRO
+Inicio
+      S <- 0
+      Repita
+           Escreva(S)
+           S <- S + 1
+      Ate (S = 10)
+Fimalgoritmo
